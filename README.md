@@ -1,6 +1,6 @@
 A collection of utility functions
 
-#Example 
+##Example 
 
 ```
 getRandomElement([1, 2, 3]);
